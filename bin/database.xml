@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imageLabeller>
+  <image>
+    <name>image3.jpg</name>
+    <path>./src/hci/local/image3.jpg</path>
+    <tag>
+      <tname>cloud</tname>
+      <point>
+        <xcoord>74</xcoord>
+        <ycoord>73</ycoord>
+      </point>
+      <point>
+        <xcoord>109</xcoord>
+        <ycoord>118</ycoord>
+      </point>
+      <point>
+        <xcoord>146</xcoord>
+        <ycoord>90</ycoord>
+      </point>
+      <point>
+        <xcoord>74</xcoord>
+        <ycoord>71</ycoord>
+      </point>
+    </tag>
+  </image>
+</imageLabeller>
+
