@@ -11,5 +11,5 @@ To run the application:
 		java -jar bin/LabelMe.jar
 
 
-NOTE: We have copied the src and images folders and database file into the bin directory due to an unforseen error. We are aware that this is not the standard way of doing packaging
+NOTE: We have copied the src and images folders and database file into the bin directory due to an unforseen bug. We are aware that this is not the standard way of doing packaging
 
